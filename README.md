@@ -2,11 +2,11 @@
 
 Sou um Engenheiro DevOps com profundos conhecimentos em desenvolvimento de software e metodologias ágeis, atualmente com foco em arquitetura de nuvem e segurança.
 
-- :rocket: Atualmente trabalho como engenheiro DevOps @CiCliC
+- :rocket: Atualmente trabalho como SRE no @itau-unibanco
 
-- :tv: Gosto de falar sobre Tecnologia, DevOps, Docker, Programação...
+- :tv: Gosto de falar sobre Tecnologia, DevOps, SRE, AWS...
 
-- :coffee: Gosto de café, podemos falar sobre torra, preparo, é muito mais.
+- :coffee: Gosto de café, podemos falar sobre tipos, torra, preparo é todo essa universo.
 
 <p align="center">
   <a href="https://github.com/ademspr?tab=followers">
