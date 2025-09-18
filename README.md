@@ -2,7 +2,7 @@
 
 Sou um Engenheiro DevOps com profundos conhecimentos em desenvolvimento de software e metodologias ágeis, atualmente com foco em arquitetura de nuvem e segurança.
 
-- :rocket: Atualmente trabalho como SRE no @itau-unibanco
+- :rocket: Atualmente trabalho como Staff SRE no @PicPay
 
 - :tv: Gosto de falar sobre Tecnologia, DevOps, SRE, AWS...
 
